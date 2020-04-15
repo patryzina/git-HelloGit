@@ -17,3 +17,18 @@ Emphasis
 -letra _italica_ de la segunda forma.
 -letra **bold o strong**, de la segunda forma.
 -letra __bold o strong__ de la segunda forma.
+
+# listas
+1. esto es un item de lista ordenada
+2. esto es un item de lista ordenada
+3. esto es un item de lista ordenada
+- esto es un item de lista ordenada
+- esto es un item de lista ordenada
+- esto es un item de lista ordenada
+
+# links
+-<a href="http://google.com">esto es un link html</a>
+-[esto es un link markdown](http://www.google.com)
+
+
+
